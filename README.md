@@ -1,6 +1,6 @@
 # Latex Template for Kindle
 
-Shamelessly copied from (http://todd-davies.github.io/2014/01/08/latex-and-the-kindle/)
+Shamelessly copied from this [blog](http://todd-davies.github.io/2014/01/08/latex-and-the-kindle/) and [repo](https://github.com/Todd-Davies/latex-template)
 
 tl;dr
 -------------
